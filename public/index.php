@@ -8,5 +8,3 @@ require_once '../private/app.php';
 
 $app = new App($config);
 $app->run();
-
-?>
