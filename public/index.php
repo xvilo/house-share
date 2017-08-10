@@ -13,10 +13,10 @@ $config = [
     'unsecure_url' => 'http://flat.dev/',
     'secure_url'   => 'https://flat.dev/',
     'database'     => [
-        'user'  => 'user',
-        'password' => 'password',
-        'database' => 'database',
-        'host'     => 'host',
+        'user'  => 'root',
+        'password' => 'root',
+        'database' => 'flat',
+        'host'     => 'localhost',
     ]
 ];
 
