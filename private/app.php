@@ -15,6 +15,6 @@ class App
 
     public function run()
     {
-        die(var_dump( auth::validateToken('+31646563381', '123098') ));
+        die(var_dump( auth::validateToken('+31123456789', '123098') ));
     }
 }
